@@ -1,2 +1,2 @@
 # testador de media de uma aluno
- calculadora de media de aluno nos bimestres
+ calculadora de média de aluno nos bimestres
